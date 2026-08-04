@@ -1,0 +1,2 @@
+# fast-utils
+go project
